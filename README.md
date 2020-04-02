@@ -37,5 +37,5 @@ Reboot and check the results
 If all cleared, export `SystemLink.reg` and your own `FontSubstitues.reg`  
 
 **Make sure `SystemLink.reg` only contains the new entry comes from en_us.reg**  
-**Make sure `FontSubstitues.reg` only contains what entry you have changed**
+**Make sure `FontSubstitues.reg` only contains what entry you have changed**  
 Create a pull request to submit your results of the work.
