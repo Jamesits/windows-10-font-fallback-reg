@@ -1,5 +1,7 @@
 # Windows 10 font fallback config
 
+See [Microsoft doc](https://docs.microsoft.com/zh-cn/globalization/input/font-technology) for explanation.
+
 ## Submit default config  
 Export your `HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\FontLink\SystemLink`
 
