@@ -9,7 +9,7 @@ While using zh_cn, this patch let Windows to try Chinese before trying Japanese.
 
 ## File
 `SystemLink`  
-The normal fallback reg.
+Directly use `zh_cn.reg` in root folder.
 
 `FontSubstitutes`  
 Optional, alt `MS Shell Dlg 2` to `Microsoft YaHei UI`.  
